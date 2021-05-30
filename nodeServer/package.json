@@ -1,0 +1,21 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is the node Server for my RD ChatApp application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Debnath",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "This is the node server of my RD-ChatApp application"
+  },
+  "dependencies": {
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
