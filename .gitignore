@@ -1,2 +1,2 @@
-nodeServer/node_modules/
-.Ds_store
+node_modules/*
+
